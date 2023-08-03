@@ -1,0 +1,48 @@
+           Dav india  bug  report
+1:- Edit Profile  :- 
+                      a:- i'm  select  the  state  and update  button click  in   message  but ('please select the  city  not  display messgae  validation) (incomplete)
+           
+                      b:-  enter state name   and  city name  not  here(done)
+                      c:-  Address validation not  properly and  i am  enter the  60 and 70 character  so design Problem  in here (done)
+                      d:-  i'm   Enter name  25 character   and profile screen  design not Properly (done)
+                      e:-  cancel button center  not here  Properly (done)
+
+2:-cart:-  
+                  a:- i'm select  change address button click  and select address  not  chanage  address(done)
+                 
+
+3:- Login:-
+                  a:- i'm  enter the Mobile number but otp recieved  is problem
+                  b:-  user Enter the new  Phone number  not a redirect of signup screen  and  direct otp send  in  user  mobile number
+4:-Dashboard:-
+                  a:- i'm  any Product buy now  button click go to cart  but  not a redirect of buy now  screen 
+                  b:- i'm  any Product click  not a  display buy now  and  add to cart  button
+                  c:- i  am search  button click  in  searching not  properly   working  in here (any keyword  search  but  not display   the  Product)
+                  d:-  category in  any Product click  in  search any Product  but  searching  not  properly in here
+5:-Cart:-
+                
+                  a:- i'm cart add to item pay now button click  and  back  button not proerly working (done)
+            
+6:-Profile :-
+             a:About us :- about in textcontent  not  properly here  becuase  more  space here(incomplete)
+       
+             b:- Share app:-  i'm share button click   origianl path not get(incomplete)
+         
+         
+
+      
+
+8:-Valdation:-
+                a:- i'm enter the mobile number otp send but  otp not recieved and i m enter the wrong otp enter so  validation wrong display  in here (incomplete)
+                
+9:-Resend otp  :-
+                 a:- i'm resend otp button click  in 2 mintues  wait  and alert display  otp send
+              Note:- Otp recieved Problem 2-3 minutes wait but not  recieved otp          
+10:-Notifiation:-
+                 a:-right arrow button click  display notification deatlies and  back button click Notification automatic delete ...(incomplete)
+11 Terms&Condition :-
+                  a:- expandlistview not Properly because i'm  any item click one Product expand and  another Product not expand(incomplete)
+12 Shipping policy :-
+                   a:-expandlistview not Properly because i'm  any item click one Product expand and  another Product not expand(incomplete)
+13 Refund & Cancellation:-
+                  a:-expandlistview not Properly because i'm  any item click one Product expand and  another Product not expand(incomplete)
